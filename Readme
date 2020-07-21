@@ -1,0 +1,5 @@
+
+452/5000
+A customer must be able to drag en drop his data folder named "data" in to a web framework and the files in the data folder with the .dbf files will be loaded to an SQL database. 
+Not all tables in the .dbf file need to be moved to the SQL database. by means of a management tool it is adjustable which table fields should be moved to the SQL database. 
+Customers can load this file more often and the files should be updated.
